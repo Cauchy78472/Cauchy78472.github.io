@@ -3,7 +3,7 @@ layout: page
 title: Diary
 ---
 
-{% for post in site.posts %}
+{% for post in site._posts %}
   {% if post.tags contains "Diary" %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p>{{ post.excerpt }}</p>
