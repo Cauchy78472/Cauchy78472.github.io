@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 关于我的自我介绍
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是Leah，我最近在做的事情：
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 学习
+- 自我规划
+- 锻炼前额叶
+- 运动
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+我希望可以每天高效率的完成学习任务，并且做Done List！
