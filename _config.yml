@@ -10,10 +10,13 @@
 ############################
 
 # Name of website
-title: My website
+title: Leah's
 
 # Your name to show in the footer
 author: Some Person
+description: >-                       # 网站描述，会显示在搜索引擎结果中
+    这是一个通过 Fork 模板搭建的个人网站，
+    用于记录学习和生活。
 
 ###############################################
 # --- List of links in the navigation bar --- #
