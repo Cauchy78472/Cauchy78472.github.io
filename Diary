@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diarys
+title: Diary
 ---
 
 {% include blog.html %}
