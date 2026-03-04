@@ -1,0 +1,6 @@
+---
+layout: Resources
+title: Diarys
+---
+
+{% include blog.html %}
