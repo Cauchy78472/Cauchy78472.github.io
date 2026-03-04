@@ -13,7 +13,7 @@
 title: Leah's
 
 # Your name to show in the footer
-author: Some Person
+author: Leah
 description: >-                       # 网站描述，会显示在搜索引擎结果中
     这是一个通过 Fork 模板搭建的个人网站，
     用于记录学习和生活。
@@ -57,7 +57,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
+  github: Cauchy78472
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -98,15 +98,15 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -114,17 +114,17 @@ title-on-all-pages: true
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
-# Whether or not to show an excerpt for every blog post in the feed page
+# Whether or not to show an excerpt for every blog post in the feed page 是否显示摘要
 feed_show_excerpt: true
 
-# Whether or not to show a list of tags below each post preview in the feed page
+# Whether or not to show a list of tags below each post preview in the feed page 是否在博客预览下面显示标签
 feed_show_tags: true
 
-# Add a search button to the navbar
-post_search: true
+# Add a search button to the navbar 搜索设置
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
